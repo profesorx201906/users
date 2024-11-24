@@ -1,0 +1,4 @@
+com\docker\user\UserApplication.class
+com\docker\user\users\User.class
+com\docker\user\users\UserRepository.class
+com\docker\user\users\UserController.class
